@@ -1,7 +1,7 @@
 ```
-pip install pandas numpy openpyxl customtkinter pyinstaller
+pip install numpy pandas openpyxl customtkinter py2app setuptools wheel
 
-pyinstaller --name "Your App Name" --onefile "script_file.py" 
+py2applet --make-setup amazon_report_automation.py
 
-python3 setup.py py2app
+python setup.py py2app
 ```

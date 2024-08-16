@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['amazon_report_automation_v8.py']
+APP = ['amazon_report_automation.py']
 DATA_FILES = []
 OPTIONS = {}
 
