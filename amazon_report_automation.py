@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 import openpyxl as el
 import customtkinter
-import time
 
 customtkinter.set_appearance_mode('System')
 customtkinter.set_default_color_theme("blue")
